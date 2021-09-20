@@ -2,18 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
+      "title": "About this blog.",
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-20T06:39:22+02:00"
+      "last_modified": "2021-09-20T08:44:17+02:00"
     },
     {
       "path": "index.html",
       "title": "Oscar Baruffa: Data books, blog and more",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-09-20T06:39:23+02:00"
+      "last_modified": "2021-09-20T08:44:18+02:00"
     }
   ],
   "collections": ["posts/posts.json"]
