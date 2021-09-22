@@ -1,0 +1,24 @@
+---
+title: "Mistakes: You'll make a few"
+description: |
+  A short description of the post.
+author:
+  - name: Oscar Baruffa
+    url: https://oscarbaruffa.com/
+date: 09-20-2021
+canonical_url: https://oscarbaruffa.com/error
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Running into errors and warnings is a completely normal part of programming – even the best of the best can count on it happening daily! Getting comfortable with what the errors mean and how to find the solution is part of your learning journey.
+
+Here’s a checklist (pdf /jpg) with some common errors you’ll encounter. When you’ve collected them all, tweet us with #rstats for some virtual high-fives!
+

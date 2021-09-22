@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-09-20-test-post/",
+    "title": "Mistakes: You'll make a few",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Oscar Baruffa",
+        "url": "https://oscarbaruffa.com/"
+      }
+    ],
+    "date": "2021-09-20",
+    "categories": [],
+    "contents": "\r\nRunning into errors and warnings is a completely normal part of programming – even the best of the best can count on it happening daily! Getting comfortable with what the errors mean and how to find the solution is part of your learning journey.\r\nHere’s a checklist (pdf /jpg) with some common errors you’ll encounter. When you’ve collected them all, tweet us with #rstats for some virtual high-fives!\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-22T04:56:45+02:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Oscar Baruffa: Data books, blog and more",
     "description": "Welcome to our new blog, Oscar Baruffa: Data books, blog and more. We hope you enjoy \nreading what we have to say!",

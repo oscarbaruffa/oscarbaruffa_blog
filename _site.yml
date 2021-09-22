@@ -7,6 +7,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "new page"
+      href: newpage.html
     - text: "About"
       href: about.html
 output: distill::distill_article
