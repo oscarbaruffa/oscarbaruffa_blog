@@ -2,11 +2,6 @@
 title: "Mistakes: You'll make a few"
 description: |
   A short description of the post.
-author:
-  - name: Oscar Baruffa
-    url: https://oscarbaruffa.com/
-date: 09-20-2021
-canonical_url: https://oscarbaruffa.com/error
 output:
   distill::distill_article:
     self_contained: false
